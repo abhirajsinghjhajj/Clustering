@@ -63,11 +63,3 @@ The notebook includes:
 - **Mean Shift** can automatically find clusters but may be slower.
 
 ---
-
-
-Let me know if you'd like me to:
-- Add an image preview of a plot
-- Include GitHub badges
-- Write a smaller version for submission
-
-I'm happy to help fine-tune it!
