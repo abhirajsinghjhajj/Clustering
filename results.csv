@@ -1,0 +1,49 @@
+Preprocessing,Clusters,Silhouette,Calinski-Harabasz,Davies-Bouldin
+KMeans Clustering Results,,,,
+No Processing,3,0.463,203.8,0.891
+No Processing,4,0.335,192.14,0.985
+No Processing,5,0.376,212.24,0.923
+Using Normalization,3,0.418,173.45,1.104
+Using Normalization,4,0.409,191.11,0.971
+Using Normalization,5,0.36,184.83,1.085
+Using PCA,3,0.524,285.46,0.748
+Using PCA,4,0.462,307.07,0.73
+Using PCA,5,0.449,352.35,0.69
+Using T+N,3,0.26,156.81,1.335
+Using T+N,4,0.199,137.6,1.543
+Using T+N,5,0.202,124.26,1.488
+Using T+N+PCA,3,0.355,288.85,0.952
+Using T+N+PCA,4,0.33,293.9,1.002
+Using T+N+PCA,5,0.358,290.43,0.952
+Using Transform,3,0.261,152.75,1.34
+Using Transform,4,0.185,131.14,1.564
+Using Transform,5,0.192,114.71,1.533
+,,,,
+Hierarchical Clustering Results,,,,
+No Processing,3,0.375,183.36,0.978
+No Processing,4,0.348,185.26,0.97
+No Processing,5,0.352,196.95,0.911
+Using Normalization,3,0.323,146.13,1.01
+Using Normalization,4,0.316,151.5,1.129
+Using Normalization,5,0.29,148.82,1.109
+Using PCA,3,0.525,245.35,0.732
+Using PCA,4,0.431,288.67,0.793
+Using PCA,5,0.432,290.15,0.739
+Using T+N,3,0.209,136.28,1.529
+Using T+N,4,0.155,113.23,1.484
+Using T+N,5,0.153,101.05,1.538
+Using T+N+PCA,3,0.373,236.56,0.804
+Using T+N+PCA,4,0.327,237.25,0.862
+Using T+N+PCA,5,0.333,259.56,0.947
+Using Transform,3,0.255,116.8,1.539
+Using Transform,4,0.202,108.61,1.521
+Using Transform,5,0.203,100.01,1.386
+,,,,
+KMeans Shift Clustering Results,,,,
+No Processing,14,0.364,54.75,0.576
+Using Normalization,15,0.426,61.94,0.355
+Using PCA,8,0.49,100.67,0.486
+Using T+N,6,0.278,18.04,0.979
+Using T+N+PCA,2,0.489,21.99,0.738
+Using Transform,5,0.353,17.19,1.069
+,,,,
